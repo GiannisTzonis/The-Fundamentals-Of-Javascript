@@ -19,4 +19,4 @@ function nbYear(p0, percent, aug, p, years = 0) {
           p,
           years + 1
         );
-  }
+ }
