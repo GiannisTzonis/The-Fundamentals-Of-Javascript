@@ -12,4 +12,4 @@ function sortArray(array) {
         .sort((a, b) => a - b)
         .forEach((v, i) => array[indices[i]] = v);
     return array
-}
+        }
