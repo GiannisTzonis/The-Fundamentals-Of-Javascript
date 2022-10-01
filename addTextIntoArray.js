@@ -13,9 +13,10 @@ Examples: (Input --> Output)
 
 */
 
-var number=function(array){
-    for ( let i = 0; i < array.length; i ++) {
-      array[i] = (1 + i) + ": " + array[i]
-    }
-    return array
-}
+var number = function (array) {
+  for (let i = 0; i < array.length; i++) {
+    array[i] = 1 + i + ": " + array[i];
+  }
+  return array;
+};
+
