@@ -19,4 +19,4 @@ function bmi(weight, height) {
         } else {
           return "Obese"
         }
-  }
+}
