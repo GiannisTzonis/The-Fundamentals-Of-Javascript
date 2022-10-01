@@ -10,6 +10,6 @@ Examples:
 */
 
 function opposite(number) {
-    oppositeNum = number * -1
+    let oppositeNum = number * -1
     return(oppositeNum)
 }

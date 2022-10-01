@@ -5,6 +5,6 @@ Note: Don't worry, all inputs will be strings, and every string is a perfectly v
 */
 
 const stringToNumber = function(str){
-    product = Number(str)
+    let product = Number(str)
     return product;
   }
