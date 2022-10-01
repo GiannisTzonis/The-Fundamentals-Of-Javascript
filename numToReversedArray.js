@@ -14,4 +14,4 @@ function digitize(n) {
       reversedArray[i] = parseInt(initialArray.shift(),10);
     }
     return reversedArray;
-  }
+}

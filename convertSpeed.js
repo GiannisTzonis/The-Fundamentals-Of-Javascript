@@ -12,4 +12,4 @@ Note! The input is a Real number (actual type is language dependent) and is >= 0
 function cockroachSpeed(s) {
     let cmToSecond = parseInt(( s * 30 ) / 1.08)
     return cmToSecond
-  }
+}
