@@ -3,9 +3,9 @@ Implement a function which convert the given boolean value into its string repre
 */
 
 function booleanToString(b){
-    if(b){
+    if (b) {
     return "true";
-  }else{
+  } else {
     return "false";
   }
 }
