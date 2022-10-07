@@ -1,0 +1,1 @@
+This repository contains a series of problems with their solutions on the fundamentals of JAVASCRIPT. The syntax of the solutions is beginner friendly while the problems were take from "Codewars Katas".
